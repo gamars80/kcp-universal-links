@@ -1,0 +1,11 @@
+{
+ "applinks": {
+   "apps": [],
+   "details": [
+     {
+       "appID": "ZP7C47B83Y.com.gamars.gacha",
+       "paths": ["/kcp-auth-result*"]
+     }
+   ]
+ }
+}
